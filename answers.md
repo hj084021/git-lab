@@ -69,7 +69,8 @@ answer 11
 answer 12
 	changes are now reflected in local copy
 
-
+answer 13
+.  ..  .git  .gitignore  README.md
 
 
 
