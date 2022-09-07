@@ -1,2 +1,4 @@
 Henry Jones
-hj084021
+uisernamE: hj084021
+email: hj084021@ohio.edu
+answers recorded in answers.md
